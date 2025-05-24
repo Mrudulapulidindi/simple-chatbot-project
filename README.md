@@ -9,7 +9,7 @@ This is a simple chatbot project built as part of the **Gen AI and ChatGPT** cou
 
 ##  Project Files
 
-| 📄 File Name             | 📃 Description                                              |
+|   File Name             |   Description                                              |
 |:------------------------|:-----------------------------------------------------------|
 | `chatbot_online_api.py`  | Chatbot that connects to OpenAI's API and responds to user inputs. |
 | `chatbot_offline.py`     | Basic chatbot that responds based on predefined answers in a dictionary. |
