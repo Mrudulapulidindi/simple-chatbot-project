@@ -7,7 +7,7 @@ This is a simple chatbot project built as part of the **Gen AI and ChatGPT** cou
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | 📄 File Name             | 📃 Description                                              |
 |:------------------------|:-----------------------------------------------------------|
@@ -82,10 +82,6 @@ Example:
 ##  License
 
 This project is created for **educational purposes only** and is part of a coursework assignment.
-
-
-
-_Add screenshots of your chatbot interaction examples here if you like!_
 
 ---
 
