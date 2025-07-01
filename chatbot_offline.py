@@ -9,7 +9,7 @@ def chatbot_response(user_input):
         "hello": "Hi there!",
         "nice to meet you":"I'm glad to meet you too.",
         "what's you're name":"my name is chattybotty",
-        "what are you doing";" nothing just chilling with you, what about you",
+        "what are you doing":" nothing just chilling with you, what about you",
         "how are you": "I'm doing great, thank you!",
         "what is ai": "AI stands for Artificial Intelligence.",
         "bye": "Goodbye!"
